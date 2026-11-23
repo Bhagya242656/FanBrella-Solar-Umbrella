@@ -36,11 +36,7 @@ Team Members
 - A. Anusha
 
 Project Images
-![Solar Panel Installation](solar-panel-installation.jpg)
 
-![Internal Hardware Setup](internal-hardware-setup.jpg)
-
-![Fan and Switch Assembly](fan-and-switch-assembly.jpg)
 Project prototype photographs are available in this repository.
 
 Project Documentation
